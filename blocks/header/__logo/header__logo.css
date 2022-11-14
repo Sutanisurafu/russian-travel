@@ -1,0 +1,7 @@
+.header__logo {
+  outline: 1px black solid;
+  z-index: 1;
+  width: 176px;
+  height: 52px;
+  background-image: url(../../../image/__logo.png);
+}

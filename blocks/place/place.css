@@ -1,0 +1,13 @@
+.place {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+  max-width: 76.8%;
+  min-width: 320px;
+  max-height: 660px;
+  padding: 0;
+  outline: pink 1px solid;
+  
+}
