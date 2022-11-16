@@ -1,0 +1,10 @@
+.place__container {
+  display: flex;
+  flex-direction: column;
+  max-width: 484px;
+  max-height: 460px;
+  grid-column: 6/11;
+  grid-row: 4/10;
+  
+  
+}

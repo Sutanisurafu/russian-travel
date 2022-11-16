@@ -1,12 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;800&display=swap');
 
-
 .page {
   background-color: #2A2C2F;
   margin: auto;
   max-width: 1280px;
   min-width: 320px;
-  outline: 1px green solid;
   padding: 0;
   
 }

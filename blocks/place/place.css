@@ -1,15 +1,16 @@
 .place {
-  display: flex;
-
+  display: grid;
   box-sizing: border-box;
-  flex-direction: column;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  width: 100%;
+  grid-template-columns: repeat(10, 1fr);
+  grid-template-rows: repeat(10, 1fr);
   max-width: 984px;
   min-width: 320px;
   max-height: 660px;
   padding: 0;
-  outline: pink 1px solid;
-  
+  margin-bottom: 80px;
 }
+
+.place:last-of-type {
+  margin: 0;
+}
+

@@ -1,6 +1,5 @@
 .lead {
   overflow: hidden;
-  outline: red 1px solid;
   margin: auto;
   display: flex;
   flex-direction: column;
