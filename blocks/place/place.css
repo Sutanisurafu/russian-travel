@@ -1,10 +1,12 @@
 .place {
   display: flex;
+
+  box-sizing: border-box;
   flex-direction: column;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: space-between;
   width: 100%;
-  max-width: 76.8%;
+  max-width: 984px;
   min-width: 320px;
   max-height: 660px;
   padding: 0;

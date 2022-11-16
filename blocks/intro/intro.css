@@ -1,5 +1,6 @@
 .intro {
-  margin: 0;
+  margin: auto;
   align-items: center;
+  max-width: 984px;
 
 }

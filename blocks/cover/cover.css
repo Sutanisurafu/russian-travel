@@ -1,14 +1,10 @@
 .cover {
-  background-image: url(../../image/__background.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 100%;
-  height: 740px;
-  display: flex;
+  display: flex;  
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
- 
-  opacity: 0.3;
+
+  
+  max-height: 740px;
+  max-width: 1184px;
+  padding: 0;
 
 }
