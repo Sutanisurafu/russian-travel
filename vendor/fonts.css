@@ -2,7 +2,7 @@
   src: url(../fonts/Inter-Black.ttf) format("ttf");
   font-family: 'inter';
   font-weight: normal;
-  -webkit-font-smoothing: antialiased; 
+  -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
@@ -10,7 +10,7 @@
   src: url(../fonts/Inter-Bold.ttf) format("ttf");
   font-family: 'inter';
   font-weight: bold;
-  -webkit-font-smoothing: antialiased; 
+  -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
