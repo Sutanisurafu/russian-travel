@@ -15,5 +15,14 @@
     grid-row: 2;
 }
 }
-/*
-*/
+
+@media screen and (max-width: 320px) {
+  .place__website {
+    margin-left: 16px;
+    font-size: 18px;
+    line-height: 22px;
+}
+}
+
+
+
