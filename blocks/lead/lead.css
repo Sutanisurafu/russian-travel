@@ -4,5 +4,21 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  max-width: 984px;
+
 
 }
+
+@media screen and (max-width: 1024px) {
+  .lead {
+    max-width: 90.625%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead {
+    max-width: 100%;
+    
+  }
+}
+

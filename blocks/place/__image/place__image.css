@@ -1,10 +1,37 @@
 .place__image {
-  grid-column-start: 1;
-  grid-column-end: 3;
-  grid-row-start: 4;
-  grid-row-end: 10;
+
   max-width: 460px;
-  max-height: 460px;
   
+  
+  grid-column: 1;
+  grid-row: 2;
+  align-self: flex-start;
  
 }
+
+@media screen and (max-width: 1100px) {
+  .place__image {
+  max-width: 440px;
+}
+}
+
+@media screen and (max-width: 900px) {
+  .place__image {
+ 
+  max-width: 340px;
+  
+  
+}
+}
+@media screen and (max-width: 750px) {
+  .place__image {
+    grid-row: 3;
+    max-width: 100%;
+}
+}
+
+
+/*
+*/
+
+

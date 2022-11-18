@@ -10,12 +10,36 @@
  margin-top: 26px;
  grid-row: 3/9;
  grid-column: 5/10;
-  
+ 
+ box-sizing: border-box;
 
 color: #FFFFFF;
   
 }
 
 .place__paragraph:first-of-type {
-  margin: 0;
+  margin-top: 0;
 }
+
+@media screen and (max-width: 1024px) {
+  .place__paragraph {
+    max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .place__paragraph {
+    font-size: 16px;
+  }
+}
+
+
+
+
+@media screen and (max-width: 700px) {
+  .place__paragraph {
+    grid-row: 10/20;
+    grid-column: 1/5;
+}
+}
+
