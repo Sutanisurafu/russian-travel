@@ -1,14 +1,14 @@
 @font-face {
-  src: url(../fonts/Inter-Black.ttf) format("ttf");
-  font-family: 'inter';
+  src: url(../fonts/Inter-Black.woff) format("woff");
+  font-family: 'Inter';
   font-weight: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 @font-face {
-  src: url(../fonts/Inter-Bold.ttf) format("ttf");
-  font-family: 'inter';
+  src: url(../fonts/Inter-Bold.woff) format("woff");
+  font-family: 'Inter';
   font-weight: bold;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
