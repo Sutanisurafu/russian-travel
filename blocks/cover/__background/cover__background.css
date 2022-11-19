@@ -1,7 +1,7 @@
 .cover__background {
   text-decoration: none;
   min-height: 740px;
-  max-width: 92.5%;
+  max-width: 93%;
   margin: auto;
   background-image: url(../../../image/__background.png);
   background-repeat: no-repeat;
@@ -42,24 +42,18 @@
 @media screen and (max-width: 768px) {
   .cover__background {
     min-height: 480px;
-   
-
   }
 }
 
 @media screen and (max-width: 550px) {
   .cover__background {
     min-height: 300px;
-    
-
   }
 }
 
 @media screen and (max-width: 320px) {
   .cover__background {
     min-height: 200px;
-    
-
   }
 }
 

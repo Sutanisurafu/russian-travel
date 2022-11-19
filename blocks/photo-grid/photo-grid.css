@@ -6,8 +6,6 @@
   grid-template-rows: repeat(3, 1fr);
   gap: 16px;
   max-width: 93%;
-  
-
 }
 
 @media screen and (max-width: 1024px) {
@@ -35,6 +33,7 @@
   .photo-grid {
     gap: 12px;
     margin-top: 64px;
+    margin-bottom: 64px;
     max-width: 288px;
   }
 }

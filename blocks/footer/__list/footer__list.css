@@ -1,0 +1,9 @@
+.footer__list {
+  max-width: 100%;
+}
+
+@media screen and (max-width: 320px) {
+  .footer__list {
+    align-self: flex-start;
+  }
+}

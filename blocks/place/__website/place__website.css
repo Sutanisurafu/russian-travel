@@ -8,12 +8,11 @@
   max-width: 484px;
 }
 
-
 @media screen and (max-width: 750px) {
   .place__website {
     grid-column: 1;
     grid-row: 2;
-}
+  }
 }
 
 @media screen and (max-width: 320px) {
@@ -21,7 +20,7 @@
     margin-left: 16px;
     font-size: 18px;
     line-height: 22px;
-}
+  }
 }
 
 

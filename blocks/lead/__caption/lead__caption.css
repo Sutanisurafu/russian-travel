@@ -14,12 +14,10 @@
   .lead__caption {
     margin: 10px 0 0 24px;
   }
-  
 }
 
 @media screen and (max-width: 320px) {
   .lead__caption {
     margin: 10px 0 0 16px;
   }
-  
 }
