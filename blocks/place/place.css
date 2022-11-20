@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   display: grid;
-  grid-template-columns: minmax(auto, 1fr) auto;
+  grid-template-columns: minmax(min-content, 300px) minmax(320px, 1fr);
   grid-template-rows: minmax(auto, max-content) minmax(auto, max-content);
   box-sizing: border-box;
   padding-bottom: 80px;
