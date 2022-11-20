@@ -9,12 +9,6 @@
   color: #FFFFFF;
 }
 
-@media screen and (max-width: 810px) {
-  .footer__copyright {
-    flex-direction: column;
-    margin-top: 24px;
-  }
-}
 @media screen and (max-width: 320px) {
   .footer__copyright {
     margin-bottom: 0;
